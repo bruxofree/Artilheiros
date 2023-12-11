@@ -1,0 +1,19 @@
+table {
+    font-family: Frutiger, sans-serif;
+    border: 1px solid #ddd;
+}
+
+th {
+    padding: 15px;
+    font-weight: normal;
+}
+
+
+td {
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
